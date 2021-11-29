@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../FamilySystemServer/CommonTools/target/CommonTools-1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FamilySystemServer/CommonTools/target/CommonTools-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FamilySystemServer/CommonTools/target/CommonTools-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FamilySystemServer/CommonTools/target/CommonTools-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
